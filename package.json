@@ -1,7 +1,8 @@
 {
   "name": "shoeapp",
   "version": "0.1.0",
-  "private": true,"homepage": "https://jesi-nancy.github.io/shoemart/",
+  "private": true,
+  "homepage": "https://jesi-nancy.github.io/shoemart/",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",

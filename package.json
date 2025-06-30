@@ -1,15 +1,19 @@
 {
   "name": "shoeapp",
   "version": "0.1.0",
-  "private": true,
+  "private": true,"homepage": "https://jesi-nancy.github.io/shoemart/",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "core-js": "^3.8.3",
-    "vue": "^3.2.13"
+    "three": "^0.177.0",
+    "vue": "^3.2.13",
+    "vue-router": "^4.5.1",
+    "vuex": "^4.0.2"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",
@@ -18,7 +22,8 @@
     "@vue/cli-plugin-eslint": "~5.0.0",
     "@vue/cli-service": "~5.0.0",
     "eslint": "^7.32.0",
-    "eslint-plugin-vue": "^8.0.3"
+    "eslint-plugin-vue": "^8.0.3",
+    "gh-pages": "^6.3.0"
   },
   "eslintConfig": {
     "root": true,

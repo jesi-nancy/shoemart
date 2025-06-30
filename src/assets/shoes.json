@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "name": "Air Zoom Pegasus",
+    "description": "Lightweight and responsive running shoes.",
+    "rating": 4.5,
+    "size": "7, 8, 9, 10",
+    "discountPrice": 5999,
+    "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSxtY71YNQBY4FN-U5-oznSE2qVtSZhJ6-Ju6HoYs5pzLhVtS23H-9ZTw-74WqYV_qEtLTStRzdhqVb2XsnNSVCIj6uszrLwEjtY4Y_dU4fonF0bCY8bQDw5Q",
+    "images": [
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQEsuYS5_PGz064fFrjna6qBlqVZMBAcHbK-8adDmaD_DhayIi7ewe_NSW8zBLPZVG0TZbj5k6ojBJLDMvNsfDUit2YWt2lxYFD4_xlifPzbmpcsyFvoAitpiw",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTTY9BGp4_EBGNi048OKUMtbUK1hhv_XnmomwTHqi061NegqlliDSDh96WtbNCpeVtZhvR8RtWdXMAF9EXNo7hrkOM4ZsquXwyrdtMU5jTjfzEcDH1bxOR9",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ6-ZP4e1R7hWk6ZqB5IUzXGqBMPFJCFsHjK-dbBP0vA9y9ZqGnghrH4Ghm_-PZrO2GyLpWv9Qy23sWPvMei3U4Xoac89lDw5u0b1R0L3JeG6sUNrV_tCzl6iw"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Nike Air Max Excee",
+    "description": "Inspired by the Air Max 90, updated comfort and style.",
+    "rating": 4.4,
+    "size": "6, 7, 8, 9",
+    "discountPrice": 6499,
+    "image": "https://m.media-amazon.com/images/I/81R6YbNKOzL._SY695_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/81PhYCZ9OyL._SY500_.jpg",
+      "https://m.media-amazon.com/images/I/71BGxEJfE5L._SY500_.jpg",
+      "https://m.media-amazon.com/images/I/81snhtK79KL._SY500_.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Adidas Ultraboost",
+    "description": "Responsive cushioning and modern knit design.",
+    "rating": 4.7,
+    "size": "8, 9, 10, 11",
+    "discountPrice": 9999,
+    "image": "https://m.media-amazon.com/images/I/71vO+AHd-rL._SY575_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/91LoYJU5RxL._SY625_.jpg",
+      "https://m.media-amazon.com/images/I/71FggS15t3L._SY500_.jpg",
+      "https://m.media-amazon.com/images/I/71i6WK3-k2L._SY500_.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Puma Flyer Flex",
+    "description": "Sleek and flexible, perfect for training or casual wear.",
+    "rating": 4.2,
+    "size": "6, 7, 8",
+    "discountPrice": 4999,
+    "image": "https://m.media-amazon.com/images/I/61fVr-PRQNL._SY500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/61-THEltVOL._SY500_.jpg",
+      "https://m.media-amazon.com/images/I/717cuQbVMKL._SY500_.jpg",
+      "https://m.media-amazon.com/images/I/61smjfUjIKL._SY500_.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Skechers Go Run",
+    "description": "Lightweight trainer for daily running with breathable mesh.",
+    "rating": 4.3,
+    "size": "7, 8, 9",
+    "discountPrice": 4299,
+    "image": "https://m.media-amazon.com/images/I/71YcUEwQ1XL._SY500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/813MjrB93tL._SY500_.jpg",
+      "https://m.media-amazon.com/images/I/71aztWO6d7L._SY500_.jpg",
+      "https://m.media-amazon.com/images/I/61DWNslqRYL._SY575_.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Reebok Nano X2",
+    "description": "Built for performance, great for lifting and crossfit.",
+    "rating": 4.6,
+    "size": "8, 9, 10",
+    "discountPrice": 7999,
+    "image": "https://m.media-amazon.com/images/I/71XrbpvV2wL._SY625_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/61xOo9-CeVL._SY500_.jpg",
+      "https://m.media-amazon.com/images/I/718yGCyz7KL._SY500_.jpg",
+      "https://m.media-amazon.com/images/I/71OybLC4uDL._SY500_.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "New Balance Fresh Foam",
+    "description": "Ultimate comfort for long walks and daily use.",
+    "rating": 4.5,
+    "size": "6, 7, 8, 9",
+    "discountPrice": 6899,
+    "image": "https://m.media-amazon.com/images/I/71amyxBlt7L._SY500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/71sR-9h3AKL._SY625_.jpg",
+      "https://m.media-amazon.com/images/I/71icd+GBJPL._SY500_.jpg",
+      "https://m.media-amazon.com/images/I/81riqQwccOL._SY500_.jpg"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "ASICS Gel-Contend 7",
+    "description": "Balanced cushioning and support for beginners.",
+    "rating": 4.4,
+    "size": "7, 8, 9, 10",
+    "discountPrice": 5799,
+    "image": "https://m.media-amazon.com/images/I/81R7RCMWUAL._SY625_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/71oYwjNEbkL._SY500_.jpg",
+      "https://m.media-amazon.com/images/I/71wJgdAvXhL._SY695_.jpg",
+      "https://m.media-amazon.com/images/I/71pS+-CO6zL._SY695_.jpg"
+    ]
+  }
+]
